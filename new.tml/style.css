@@ -1,0 +1,39 @@
+/* .navbarrr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ .imtt{
+      background-image: url('images.jpeg');
+      background-size: cover;
+      background-position: center;
+      color: rgb(248, 245, 245);
+      text-align: right;
+      height: 70vh;
+        width: 100%;
+     }
+.display-4 {
+  color: black
+}
+.lead{
+    color: rgb(214, 152, 152);
+} */
+ 
+ .hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: rgb(129, 141, 197);
+  width: 100%;
+  height: 85vh;
+ }
+ .desciption{
+  text-align: left;
+  margin-left: 20px;
+  padding: 50px;
+
+ }
+.images{
+  width: 400px;
+  height: 400px;
+}
